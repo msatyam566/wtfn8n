@@ -31,7 +31,7 @@
   "n8n": {
     "n8nNodesApiVersion": 1,
     "credentials": [
-      "dist/credentials/NasaPicsApi.credentials.js"
+      "dist/credentials/NasaPicsApi.credentials.ts"
     ],
     "nodes": [
       "dist/nodes/NasaPics/NasaPics.node.js"
